@@ -2,7 +2,7 @@
 
 An image classifier that recognizes 102 flower species, built by fine-tuning a pretrained ResNet18 with PyTorch. It includes a small Gradio web app: upload a flower photo and get the top 5 predictions.
 
-**Test accuracy: 88%** on the Oxford 102 Flowers test set.
+**Test accuracy: 88.62%** on the Oxford 102 Flowers test set.
 
 ## How it works
 
